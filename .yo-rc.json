@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.agilesolutions.jhipster"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "microservice",
+    "baseName": "demo",
+    "packageName": "com.agilesolutions.jhipster",
+    "packageFolder": "com/agilesolutions/jhipster",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NjJkZmQ5ODYzMjQyZWMzNjg4OWNmM2E0N2M0MDU0NTA4YjI4OTg0MTUwOTBkMWEyMjk0Zjc2N2E5ZWEwZjgwZjQ5ZDg4NjlkMzUzZmY3NzFlNDRhNGFlZmFjZmEyNzVjMTg4YTY3YjJlM2MyMmM1ZmYyYThiOWUxZDBmOWQ4YTI=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1591537552520,
+    "testFrameworks": ["cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
